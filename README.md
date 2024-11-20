@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Huy-DNA/Leethub/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Huy-DNA/Leethub/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Huy-DNA/Leethub/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Huy-DNA/Leethub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Huy-DNA/Leethub/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Huy-DNA/Leethub/tree/master/0118-pascals-triangle) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Huy-DNA/Leethub/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/Huy-DNA/Leethub/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Huy-DNA/Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Huy-DNA/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Huy-DNA/Leethub/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0566-reshape-the-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0967-minimum-falling-path-sum) |
