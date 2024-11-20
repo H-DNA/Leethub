@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Huy-DNA/Leethub/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Huy-DNA/Leethub/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Huy-DNA/Leethub/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Huy-DNA/Leethub/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Huy-DNA/Leethub/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Huy-DNA/Leethub/tree/master/0053-maximum-subarray) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Huy-DNA/Leethub/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Huy-DNA/Leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Huy-DNA/Leethub/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Huy-DNA/Leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Huy-DNA/Leethub/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Huy-DNA/Leethub/tree/master/0141-linked-list-cycle) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Huy-DNA/Leethub/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Huy-DNA/Leethub/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0566-reshape-the-matrix) |
