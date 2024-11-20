@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Huy-DNA/Leethub/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/Huy-DNA/Leethub/tree/master/1137-height-checker) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Huy-DNA/Leethub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Huy-DNA/Leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Huy-DNA/Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Huy-DNA/Leethub/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/Huy-DNA/Leethub/tree/master/0502-ipo) |
 | [1137-height-checker](https://github.com/Huy-DNA/Leethub/tree/master/1137-height-checker) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Huy-DNA/Leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Huy-DNA/Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1321-get-equal-substrings-within-budget](https://github.com/Huy-DNA/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Huy-DNA/Leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sliding Window
 |  |
 | ------- |
