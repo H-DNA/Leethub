@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Huy-DNA/Leethub/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Huy-DNA/Leethub/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Huy-DNA/Leethub/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Huy-DNA/Leethub/tree/master/0345-reverse-vowels-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Huy-DNA/Leethub/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Huy-DNA/Leethub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0344-reverse-string](https://github.com/Huy-DNA/Leethub/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Huy-DNA/Leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Huy-DNA/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [1197-parsing-a-boolean-expression](https://github.com/Huy-DNA/Leethub/tree/master/1197-parsing-a-boolean-expression) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Huy-DNA/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
