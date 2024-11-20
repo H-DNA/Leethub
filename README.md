@@ -64,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Huy-DNA/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Huy-DNA/Leethub/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Huy-DNA/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Huy-DNA/Leethub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Huy-DNA/Leethub/tree/master/0344-reverse-string) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Huy-DNA/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Huy-DNA/Leethub/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3379-score-of-a-string](https://github.com/Huy-DNA/Leethub/tree/master/3379-score-of-a-string) |
 ## Bit Manipulation
@@ -76,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Huy-DNA/Leethub/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Huy-DNA/Leethub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+## Binary Search
+|  |
+| ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/Huy-DNA/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
+## Sliding Window
+|  |
+| ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/Huy-DNA/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
