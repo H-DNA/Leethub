@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Huy-DNA/Leethub/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Huy-DNA/Leethub/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Huy-DNA/Leethub/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Huy-DNA/Leethub/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/Huy-DNA/Leethub/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Huy-DNA/Leethub/tree/master/0241-different-ways-to-add-parentheses) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Huy-DNA/Leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Huy-DNA/Leethub/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/Huy-DNA/Leethub/tree/master/0200-number-of-islands) |
 | [0904-leaf-similar-trees](https://github.com/Huy-DNA/Leethub/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Huy-DNA/Leethub/tree/master/0975-range-sum-of-bst) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Huy-DNA/Leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Huy-DNA/Leethub/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0904-leaf-similar-trees](https://github.com/Huy-DNA/Leethub/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Huy-DNA/Leethub/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Huy-DNA/Leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Huy-DNA/Leethub/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0904-leaf-similar-trees](https://github.com/Huy-DNA/Leethub/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Huy-DNA/Leethub/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
