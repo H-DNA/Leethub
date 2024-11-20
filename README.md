@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Huy-DNA/Leethub/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/Huy-DNA/Leethub/tree/master/0300-longest-increasing-subsequence) |
 | [0330-patching-array](https://github.com/Huy-DNA/Leethub/tree/master/0330-patching-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Huy-DNA/Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Huy-DNA/Leethub/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Huy-DNA/Leethub/tree/master/0377-combination-sum-iv) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Huy-DNA/Leethub/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Huy-DNA/Leethub/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Huy-DNA/Leethub/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Huy-DNA/Leethub/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Huy-DNA/Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Huy-DNA/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Huy-DNA/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Huy-DNA/Leethub/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Huy-DNA/Leethub/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Huy-DNA/Leethub/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Huy-DNA/Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Huy-DNA/Leethub/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Huy-DNA/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Huy-DNA/Leethub/tree/master/0502-ipo) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Huy-DNA/Leethub/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Huy-DNA/Leethub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Huy-DNA/Leethub/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Huy-DNA/Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Huy-DNA/Leethub/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/Huy-DNA/Leethub/tree/master/0300-longest-increasing-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Huy-DNA/Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Huy-DNA/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Huy-DNA/Leethub/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Huy-DNA/Leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
