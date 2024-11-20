@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Huy-DNA/Leethub/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Huy-DNA/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0566-reshape-the-matrix) |
+| [0822-unique-morse-code-words](https://github.com/Huy-DNA/Leethub/tree/master/0822-unique-morse-code-words) |
 | [0909-stone-game](https://github.com/Huy-DNA/Leethub/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0967-minimum-falling-path-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Huy-DNA/Leethub/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Huy-DNA/Leethub/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Huy-DNA/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Huy-DNA/Leethub/tree/master/0523-continuous-subarray-sum) |
+| [0822-unique-morse-code-words](https://github.com/Huy-DNA/Leethub/tree/master/0822-unique-morse-code-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Huy-DNA/Leethub/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Huy-DNA/Leethub/tree/master/1464-reduce-array-size-to-the-half) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Huy-DNA/Leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Huy-DNA/Leethub/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Huy-DNA/Leethub/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Huy-DNA/Leethub/tree/master/0451-sort-characters-by-frequency) |
+| [0822-unique-morse-code-words](https://github.com/Huy-DNA/Leethub/tree/master/0822-unique-morse-code-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/Huy-DNA/Leethub/tree/master/1197-parsing-a-boolean-expression) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Huy-DNA/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Huy-DNA/Leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
