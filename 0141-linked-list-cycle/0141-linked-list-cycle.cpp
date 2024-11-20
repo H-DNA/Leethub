@@ -6,7 +6,7 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-#pragma GCC optimize("Os")
+
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
