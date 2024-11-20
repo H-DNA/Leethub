@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Huy-DNA/Leethub/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Huy-DNA/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0909-stone-game](https://github.com/Huy-DNA/Leethub/tree/master/0909-stone-game) |
+| [0967-minimum-falling-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0967-minimum-falling-path-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Huy-DNA/Leethub/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/Huy-DNA/Leethub/tree/master/1137-height-checker) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Huy-DNA/Leethub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Huy-DNA/Leethub/tree/master/0368-largest-divisible-subset) |
 | [0650-2-keys-keyboard](https://github.com/Huy-DNA/Leethub/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/Huy-DNA/Leethub/tree/master/0909-stone-game) |
+| [0967-minimum-falling-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0967-minimum-falling-path-sum) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/Huy-DNA/Leethub/tree/master/1897-maximize-palindrome-length-from-subsequences) |
 ## Greedy
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Huy-DNA/Leethub/tree/master/0200-number-of-islands) |
+| [0967-minimum-falling-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0967-minimum-falling-path-sum) |
 ## Linked List
 |  |
 | ------- |
