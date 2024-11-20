@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/Huy-DNA/Leethub/tree/master/1033-broken-calculator) |
 | [1095-two-city-scheduling](https://github.com/Huy-DNA/Leethub/tree/master/1095-two-city-scheduling) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Huy-DNA/Leethub/tree/master/1464-reduce-array-size-to-the-half) |
+| [1782-smallest-string-with-a-given-numeric-value](https://github.com/Huy-DNA/Leethub/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Huy-DNA/Leethub/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Huy-DNA/Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Huy-DNA/Leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Huy-DNA/Leethub/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Huy-DNA/Leethub/tree/master/1777-determine-if-two-strings-are-close) |
+| [1782-smallest-string-with-a-given-numeric-value](https://github.com/Huy-DNA/Leethub/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Huy-DNA/Leethub/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/Huy-DNA/Leethub/tree/master/1897-maximize-palindrome-length-from-subsequences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Huy-DNA/Leethub/tree/master/2244-number-of-laser-beams-in-a-bank) |
