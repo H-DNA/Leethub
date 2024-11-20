@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Huy-DNA/Leethub/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Huy-DNA/Leethub/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Huy-DNA/Leethub/tree/master/1036-rotting-oranges) |
+| [1127-last-stone-weight](https://github.com/Huy-DNA/Leethub/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Huy-DNA/Leethub/tree/master/1137-height-checker) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Huy-DNA/Leethub/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Huy-DNA/Leethub/tree/master/1464-reduce-array-size-to-the-half) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Huy-DNA/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Huy-DNA/Leethub/tree/master/0502-ipo) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Huy-DNA/Leethub/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/Huy-DNA/Leethub/tree/master/1127-last-stone-weight) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Huy-DNA/Leethub/tree/master/1464-reduce-array-size-to-the-half) |
 ## Counting Sort
 |  |
