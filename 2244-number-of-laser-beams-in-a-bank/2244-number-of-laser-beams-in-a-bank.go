@@ -3,7 +3,7 @@ func numberOfBeams(bank []string) int {
     
     for _, str := range bank {
         cur := 0;
-        for _, c := range str {
+        for _, c := range [] rune (str) {
             if c == '1' {
                 cur += 1;
             }
