@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Huy-DNA/Leethub/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/Huy-DNA/Leethub/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0967-minimum-falling-path-sum) |
+| [1332-count-vowels-permutation](https://github.com/Huy-DNA/Leethub/tree/master/1332-count-vowels-permutation) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Huy-DNA/Leethub/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/Huy-DNA/Leethub/tree/master/1897-maximize-palindrome-length-from-subsequences) |
 ## Greedy
