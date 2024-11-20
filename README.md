@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Huy-DNA/Leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Huy-DNA/Leethub/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Huy-DNA/Leethub/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/Huy-DNA/Leethub/tree/master/0200-number-of-islands) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Huy-DNA/Leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Huy-DNA/Leethub/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Huy-DNA/Leethub/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Huy-DNA/Leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Huy-DNA/Leethub/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Huy-DNA/Leethub/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0904-leaf-similar-trees](https://github.com/Huy-DNA/Leethub/tree/master/0904-leaf-similar-trees) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Huy-DNA/Leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Huy-DNA/Leethub/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Huy-DNA/Leethub/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0904-leaf-similar-trees](https://github.com/Huy-DNA/Leethub/tree/master/0904-leaf-similar-trees) |
