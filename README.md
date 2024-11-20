@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Huy-DNA/Leethub/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Huy-DNA/Leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Huy-DNA/Leethub/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Huy-DNA/Leethub/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Huy-DNA/Leethub/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Huy-DNA/Leethub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Huy-DNA/Leethub/tree/master/0326-power-of-three) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Huy-DNA/Leethub/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Huy-DNA/Leethub/tree/master/0342-power-of-four) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Huy-DNA/Leethub/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Huy-DNA/Leethub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Huy-DNA/Leethub/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Huy-DNA/Leethub/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Huy-DNA/Leethub/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Huy-DNA/Leethub/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Huy-DNA/Leethub/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Huy-DNA/Leethub/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Huy-DNA/Leethub/tree/master/0241-different-ways-to-add-parentheses) |
