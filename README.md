@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Huy-DNA/Leethub/tree/master/0822-unique-morse-code-words) |
 | [0843-binary-trees-with-factors](https://github.com/Huy-DNA/Leethub/tree/master/0843-binary-trees-with-factors) |
 | [0909-stone-game](https://github.com/Huy-DNA/Leethub/tree/master/0909-stone-game) |
+| [0917-boats-to-save-people](https://github.com/Huy-DNA/Leethub/tree/master/0917-boats-to-save-people) |
 | [0967-minimum-falling-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0967-minimum-falling-path-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Huy-DNA/Leethub/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Huy-DNA/Leethub/tree/master/1019-squares-of-a-sorted-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Huy-DNA/Leethub/tree/master/0011-container-with-most-water) |
 | [0330-patching-array](https://github.com/Huy-DNA/Leethub/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Huy-DNA/Leethub/tree/master/0502-ipo) |
+| [0917-boats-to-save-people](https://github.com/Huy-DNA/Leethub/tree/master/0917-boats-to-save-people) |
 | [1095-two-city-scheduling](https://github.com/Huy-DNA/Leethub/tree/master/1095-two-city-scheduling) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Huy-DNA/Leethub/tree/master/1464-reduce-array-size-to-the-half) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Huy-DNA/Leethub/tree/master/2117-find-original-array-from-doubled-array) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Huy-DNA/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Huy-DNA/Leethub/tree/master/0502-ipo) |
 | [0843-binary-trees-with-factors](https://github.com/Huy-DNA/Leethub/tree/master/0843-binary-trees-with-factors) |
+| [0917-boats-to-save-people](https://github.com/Huy-DNA/Leethub/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Huy-DNA/Leethub/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/Huy-DNA/Leethub/tree/master/1095-two-city-scheduling) |
 | [1137-height-checker](https://github.com/Huy-DNA/Leethub/tree/master/1137-height-checker) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Huy-DNA/Leethub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Huy-DNA/Leethub/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Huy-DNA/Leethub/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/Huy-DNA/Leethub/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Huy-DNA/Leethub/tree/master/1019-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
