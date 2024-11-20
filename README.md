@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Huy-DNA/Leethub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Huy-DNA/Leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Huy-DNA/Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Huy-DNA/Leethub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Huy-DNA/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Huy-DNA/Leethub/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Huy-DNA/Leethub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Huy-DNA/Leethub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-height-checker](https://github.com/Huy-DNA/Leethub/tree/master/1137-height-checker) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Huy-DNA/Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Huy-DNA/Leethub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Huy-DNA/Leethub/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Huy-DNA/Leethub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Huy-DNA/Leethub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Binary Search
 |  |
 | ------- |
