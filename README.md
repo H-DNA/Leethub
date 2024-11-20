@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Huy-DNA/Leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Huy-DNA/Leethub/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Huy-DNA/Leethub/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/Huy-DNA/Leethub/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/Huy-DNA/Leethub/tree/master/0300-longest-increasing-subsequence) |
 | [0330-patching-array](https://github.com/Huy-DNA/Leethub/tree/master/0330-patching-array) |
 | [0368-largest-divisible-subset](https://github.com/Huy-DNA/Leethub/tree/master/0368-largest-divisible-subset) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Huy-DNA/Leethub/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Huy-DNA/Leethub/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Huy-DNA/Leethub/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Huy-DNA/Leethub/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/Huy-DNA/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Huy-DNA/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Huy-DNA/Leethub/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Huy-DNA/Leethub/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Huy-DNA/Leethub/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/Huy-DNA/Leethub/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Huy-DNA/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Huy-DNA/Leethub/tree/master/0502-ipo) |
