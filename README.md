@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Huy-DNA/Leethub/tree/master/0001-two-sum) |
+| [0330-patching-array](https://github.com/Huy-DNA/Leethub/tree/master/0330-patching-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/Huy-DNA/Leethub/tree/master/0650-2-keys-keyboard) |
+## Greedy
+|  |
+| ------- |
+| [0330-patching-array](https://github.com/Huy-DNA/Leethub/tree/master/0330-patching-array) |
 <!---LeetCode Topics End-->
