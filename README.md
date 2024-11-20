@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Huy-DNA/Leethub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Huy-DNA/Leethub/tree/master/0092-reverse-linked-list-ii) |
+| [0725-split-linked-list-in-parts](https://github.com/Huy-DNA/Leethub/tree/master/0725-split-linked-list-in-parts) |
 ## Bucket Sort
 |  |
 | ------- |
