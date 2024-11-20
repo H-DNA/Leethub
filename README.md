@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Huy-DNA/Leethub/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/Huy-DNA/Leethub/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Huy-DNA/Leethub/tree/master/0241-different-ways-to-add-parentheses) |
+| [0343-integer-break](https://github.com/Huy-DNA/Leethub/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Huy-DNA/Leethub/tree/master/0368-largest-divisible-subset) |
 | [0523-continuous-subarray-sum](https://github.com/Huy-DNA/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0650-2-keys-keyboard](https://github.com/Huy-DNA/Leethub/tree/master/0650-2-keys-keyboard) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Huy-DNA/Leethub/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Huy-DNA/Leethub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/Huy-DNA/Leethub/tree/master/0300-longest-increasing-subsequence) |
+| [0343-integer-break](https://github.com/Huy-DNA/Leethub/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Huy-DNA/Leethub/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Huy-DNA/Leethub/tree/master/0377-combination-sum-iv) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Huy-DNA/Leethub/tree/master/0446-arithmetic-slices-ii-subsequence) |
