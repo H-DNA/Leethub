@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Huy-DNA/Leethub/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Huy-DNA/Leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Huy-DNA/Leethub/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Huy-DNA/Leethub/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Huy-DNA/Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -469,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Huy-DNA/Leethub/tree/master/0729-my-calendar-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Huy-DNA/Leethub/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
