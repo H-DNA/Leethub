@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Huy-DNA/Leethub/tree/master/0200-number-of-islands) |
+| [0904-leaf-similar-trees](https://github.com/Huy-DNA/Leethub/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -202,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Huy-DNA/Leethub/tree/master/0451-sort-characters-by-frequency) |
+## Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/Huy-DNA/Leethub/tree/master/0904-leaf-similar-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/Huy-DNA/Leethub/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
