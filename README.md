@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Huy-DNA/Leethub/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Huy-DNA/Leethub/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Huy-DNA/Leethub/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Huy-DNA/Leethub/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/Huy-DNA/Leethub/tree/master/0200-number-of-islands) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Huy-DNA/Leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Huy-DNA/Leethub/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Huy-DNA/Leethub/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0126-word-ladder-ii](https://github.com/Huy-DNA/Leethub/tree/master/0126-word-ladder-ii) |
 | [0200-number-of-islands](https://github.com/Huy-DNA/Leethub/tree/master/0200-number-of-islands) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Huy-DNA/Leethub/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Huy-DNA/Leethub/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Huy-DNA/Leethub/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Huy-DNA/Leethub/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Huy-DNA/Leethub/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/Huy-DNA/Leethub/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Huy-DNA/Leethub/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Huy-DNA/Leethub/tree/master/0143-reorder-list) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Huy-DNA/Leethub/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Huy-DNA/Leethub/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Huy-DNA/Leethub/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Huy-DNA/Leethub/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Huy-DNA/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Huy-DNA/Leethub/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Huy-DNA/Leethub/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Huy-DNA/Leethub/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Huy-DNA/Leethub/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Huy-DNA/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
