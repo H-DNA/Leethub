@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Huy-DNA/Leethub/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0502-ipo](https://github.com/Huy-DNA/Leethub/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Huy-DNA/Leethub/tree/master/0523-continuous-subarray-sum) |
+| [0566-reshape-the-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0566-reshape-the-matrix) |
 | [0909-stone-game](https://github.com/Huy-DNA/Leethub/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0967-minimum-falling-path-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Huy-DNA/Leethub/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Huy-DNA/Leethub/tree/master/0200-number-of-islands) |
+| [0566-reshape-the-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0566-reshape-the-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0967-minimum-falling-path-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Huy-DNA/Leethub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Linked List
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Huy-DNA/Leethub/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
