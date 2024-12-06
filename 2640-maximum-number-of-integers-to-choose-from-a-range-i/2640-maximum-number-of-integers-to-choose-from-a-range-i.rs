@@ -2,20 +2,17 @@ use std::collections::HashSet;
 
 impl Solution {
     pub fn max_count(banned: Vec<i32>, n: i32, max_sum: i32) -> i32 {
-        let range = HashSet::<i32>::from_iter((1..=n)
-                            .collect::<Vec<_>>()
-                            .into_iter());
-        let banned = HashSet::from_iter(banned.into_iter());
-        let mut numbers = range.difference(&banned)
-                               .into_iter().collect::<Vec<_>>();
-        numbers.sort();
+        let banned = HashSet::<i32>::from_iter(banned.into_iter());
         let mut sum = 0;
-        for (i, n) in numbers.iter().enumerate() {
-            sum += *n;
+        let mut count = 0;
+        for num in (1..=n).into_iter()
+                          .filter(|n| !banned.contains(n)) {
+            sum += num;
             if sum > max_sum {
-                return i as i32;
+                return count;
             }
+            count += 1;
         }
-        return numbers.len() as i32;
+        count
     }
 }
