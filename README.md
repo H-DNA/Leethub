@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Huy-DNA/Leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Huy-DNA/Leethub/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Huy-DNA/Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2164-two-best-non-overlapping-events](https://github.com/Huy-DNA/Leethub/tree/master/2164-two-best-non-overlapping-events) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Huy-DNA/Leethub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Huy-DNA/Leethub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Huy-DNA/Leethub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-count-vowels-permutation](https://github.com/Huy-DNA/Leethub/tree/master/1332-count-vowels-permutation) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Huy-DNA/Leethub/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/Huy-DNA/Leethub/tree/master/1897-maximize-palindrome-length-from-subsequences) |
+| [2164-two-best-non-overlapping-events](https://github.com/Huy-DNA/Leethub/tree/master/2164-two-best-non-overlapping-events) |
 ## Greedy
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Huy-DNA/Leethub/tree/master/1777-determine-if-two-strings-are-close) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Huy-DNA/Leethub/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Huy-DNA/Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2164-two-best-non-overlapping-events](https://github.com/Huy-DNA/Leethub/tree/master/2164-two-best-non-overlapping-events) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Huy-DNA/Leethub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Huy-DNA/Leethub/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Huy-DNA/Leethub/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Huy-DNA/Leethub/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Huy-DNA/Leethub/tree/master/1464-reduce-array-size-to-the-half) |
+| [2164-two-best-non-overlapping-events](https://github.com/Huy-DNA/Leethub/tree/master/2164-two-best-non-overlapping-events) |
 ## Counting Sort
 |  |
 | ------- |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Huy-DNA/Leethub/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Huy-DNA/Leethub/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Huy-DNA/Leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2164-two-best-non-overlapping-events](https://github.com/Huy-DNA/Leethub/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Huy-DNA/Leethub/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sliding Window
 |  |
