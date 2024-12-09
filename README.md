@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Huy-DNA/Leethub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Huy-DNA/Leethub/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Huy-DNA/Leethub/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3427-special-array-ii](https://github.com/Huy-DNA/Leethub/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Huy-DNA/Leethub/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Huy-DNA/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Huy-DNA/Leethub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [3427-special-array-ii](https://github.com/Huy-DNA/Leethub/tree/master/3427-special-array-ii) |
 ## String
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Huy-DNA/Leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2164-two-best-non-overlapping-events](https://github.com/Huy-DNA/Leethub/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Huy-DNA/Leethub/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/Huy-DNA/Leethub/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
