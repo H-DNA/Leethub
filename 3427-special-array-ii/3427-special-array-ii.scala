@@ -21,7 +21,6 @@ object Solution {
         for ((value, idx) <- nums.view.zipWithIndex) {
             if (idx > 0 && value % 2 + nums(idx - 1) % 2 != 1) {
                 mismatchedIndexes :+= idx
-                Console.println(idx)
             }
         }
         mismatchedIndexes :+= nums.length
@@ -29,7 +28,6 @@ object Solution {
 
         for (query <- queries) {
             val idx = lastSmallerIndex(mismatchedIndexes, query(0))
-            Console.println(idx)
             res :+= mismatchedIndexes(idx + 1) > query(1)
         }
 
