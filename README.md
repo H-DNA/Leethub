@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Huy-DNA/Leethub/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Huy-DNA/Leethub/tree/master/1464-reduce-array-size-to-the-half) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Huy-DNA/Leethub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Huy-DNA/Leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Huy-DNA/Leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Huy-DNA/Leethub/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Huy-DNA/Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -351,10 +352,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Huy-DNA/Leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Huy-DNA/Leethub/tree/master/0234-palindrome-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/Huy-DNA/Leethub/tree/master/1197-parsing-a-boolean-expression) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Huy-DNA/Leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Huy-DNA/Leethub/tree/master/0042-trapping-rain-water) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Huy-DNA/Leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
 | ------- |
