@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Huy-DNA/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Huy-DNA/Leethub/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Huy-DNA/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Huy-DNA/Leethub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Huy-DNA/Leethub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3427-special-array-ii](https://github.com/Huy-DNA/Leethub/tree/master/3427-special-array-ii) |
 ## String
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/Huy-DNA/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Huy-DNA/Leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Huy-DNA/Leethub/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Huy-DNA/Leethub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Huy-DNA/Leethub/tree/master/1777-determine-if-two-strings-are-close) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Huy-DNA/Leethub/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Huy-DNA/Leethub/tree/master/1823-determine-if-string-halves-are-alike) |
