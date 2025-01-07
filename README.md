@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Huy-DNA/Leethub/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Huy-DNA/Leethub/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Huy-DNA/Leethub/tree/master/1464-reduce-array-size-to-the-half) |
+| [1524-string-matching-in-an-array](https://github.com/Huy-DNA/Leethub/tree/master/1524-string-matching-in-an-array) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Huy-DNA/Leethub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Huy-DNA/Leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Huy-DNA/Leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/Huy-DNA/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Huy-DNA/Leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Huy-DNA/Leethub/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1524-string-matching-in-an-array](https://github.com/Huy-DNA/Leethub/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Huy-DNA/Leethub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Huy-DNA/Leethub/tree/master/1777-determine-if-two-strings-are-close) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Huy-DNA/Leethub/tree/master/1782-smallest-string-with-a-given-numeric-value) |
@@ -569,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Huy-DNA/Leethub/tree/master/0789-kth-largest-element-in-a-stream) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Huy-DNA/Leethub/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
