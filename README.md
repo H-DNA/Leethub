@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Huy-DNA/Leethub/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Huy-DNA/Leethub/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Huy-DNA/Leethub/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Huy-DNA/Leethub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/Huy-DNA/Leethub/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Huy-DNA/Leethub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2465-shifting-letters-ii](https://github.com/Huy-DNA/Leethub/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Huy-DNA/Leethub/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Huy-DNA/Leethub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/Huy-DNA/Leethub/tree/master/3379-score-of-a-string) |
 ## Bit Manipulation
 |  |
@@ -575,4 +577,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Huy-DNA/Leethub/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Huy-DNA/Leethub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Huy-DNA/Leethub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Huy-DNA/Leethub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Huy-DNA/Leethub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
