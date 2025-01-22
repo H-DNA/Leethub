@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Huy-DNA/Leethub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Huy-DNA/Leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Huy-DNA/Leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1876-map-of-highest-peak](https://github.com/Huy-DNA/Leethub/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Huy-DNA/Leethub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Huy-DNA/Leethub/tree/master/2117-find-original-array-from-doubled-array) |
 | [2145-grid-game](https://github.com/Huy-DNA/Leethub/tree/master/2145-grid-game) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Huy-DNA/Leethub/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Huy-DNA/Leethub/tree/master/1036-rotting-oranges) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Huy-DNA/Leethub/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1876-map-of-highest-peak](https://github.com/Huy-DNA/Leethub/tree/master/1876-map-of-highest-peak) |
 ## Union Find
 |  |
 | ------- |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Huy-DNA/Leethub/tree/master/1036-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Huy-DNA/Leethub/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1876-map-of-highest-peak](https://github.com/Huy-DNA/Leethub/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Huy-DNA/Leethub/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Huy-DNA/Leethub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Linked List
