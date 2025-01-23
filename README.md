@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Huy-DNA/Leethub/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Huy-DNA/Leethub/tree/master/1137-height-checker) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Huy-DNA/Leethub/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1396-count-servers-that-communicate](https://github.com/Huy-DNA/Leethub/tree/master/1396-count-servers-that-communicate) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Huy-DNA/Leethub/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Huy-DNA/Leethub/tree/master/1464-reduce-array-size-to-the-half) |
 | [1524-string-matching-in-an-array](https://github.com/Huy-DNA/Leethub/tree/master/1524-string-matching-in-an-array) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Huy-DNA/Leethub/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Huy-DNA/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [1137-height-checker](https://github.com/Huy-DNA/Leethub/tree/master/1137-height-checker) |
+| [1396-count-servers-that-communicate](https://github.com/Huy-DNA/Leethub/tree/master/1396-count-servers-that-communicate) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Huy-DNA/Leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Huy-DNA/Leethub/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Huy-DNA/Leethub/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Huy-DNA/Leethub/tree/master/0733-flood-fill) |
 | [0904-leaf-similar-trees](https://github.com/Huy-DNA/Leethub/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Huy-DNA/Leethub/tree/master/0975-range-sum-of-bst) |
+| [1396-count-servers-that-communicate](https://github.com/Huy-DNA/Leethub/tree/master/1396-count-servers-that-communicate) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Huy-DNA/Leethub/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Huy-DNA/Leethub/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Huy-DNA/Leethub/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Huy-DNA/Leethub/tree/master/1036-rotting-oranges) |
+| [1396-count-servers-that-communicate](https://github.com/Huy-DNA/Leethub/tree/master/1396-count-servers-that-communicate) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Huy-DNA/Leethub/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/Huy-DNA/Leethub/tree/master/1876-map-of-highest-peak) |
 ## Union Find
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Huy-DNA/Leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Huy-DNA/Leethub/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Huy-DNA/Leethub/tree/master/0695-max-area-of-island) |
+| [1396-count-servers-that-communicate](https://github.com/Huy-DNA/Leethub/tree/master/1396-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
@@ -469,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Huy-DNA/Leethub/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Huy-DNA/Leethub/tree/master/1036-rotting-oranges) |
+| [1396-count-servers-that-communicate](https://github.com/Huy-DNA/Leethub/tree/master/1396-count-servers-that-communicate) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Huy-DNA/Leethub/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1876-map-of-highest-peak](https://github.com/Huy-DNA/Leethub/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Huy-DNA/Leethub/tree/master/2145-grid-game) |
