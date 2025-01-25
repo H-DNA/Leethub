@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Huy-DNA/Leethub/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Huy-DNA/Leethub/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Huy-DNA/Leethub/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Huy-DNA/Leethub/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Huy-DNA/Leethub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/Huy-DNA/Leethub/tree/master/3427-special-array-ii) |
 ## Hash Table
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Huy-DNA/Leethub/tree/master/2164-two-best-non-overlapping-events) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Huy-DNA/Leethub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Huy-DNA/Leethub/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Huy-DNA/Leethub/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Huy-DNA/Leethub/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Huy-DNA/Leethub/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/Huy-DNA/Leethub/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Huy-DNA/Leethub/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
 | ------- |
