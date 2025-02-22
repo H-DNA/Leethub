@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Huy-DNA/Leethub/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/Huy-DNA/Leethub/tree/master/0800-letter-case-permutation) |
 | [0822-unique-morse-code-words](https://github.com/Huy-DNA/Leethub/tree/master/0822-unique-morse-code-words) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Huy-DNA/Leethub/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Huy-DNA/Leethub/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/Huy-DNA/Leethub/tree/master/1197-parsing-a-boolean-expression) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Huy-DNA/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Huy-DNA/Leethub/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/Huy-DNA/Leethub/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Huy-DNA/Leethub/tree/master/0975-range-sum-of-bst) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Huy-DNA/Leethub/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Huy-DNA/Leethub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Huy-DNA/Leethub/tree/master/1396-count-servers-that-communicate) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Huy-DNA/Leethub/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Huy-DNA/Leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Huy-DNA/Leethub/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Huy-DNA/Leethub/tree/master/0975-range-sum-of-bst) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Huy-DNA/Leethub/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Huy-DNA/Leethub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Huy-DNA/Leethub/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Binary Tree
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Huy-DNA/Leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Huy-DNA/Leethub/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Huy-DNA/Leethub/tree/master/0975-range-sum-of-bst) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Huy-DNA/Leethub/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Huy-DNA/Leethub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Huy-DNA/Leethub/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Binary Search Tree
