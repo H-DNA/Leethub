@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-binary-trees-with-factors](https://github.com/Huy-DNA/Leethub/tree/master/0843-binary-trees-with-factors) |
 | [0909-stone-game](https://github.com/Huy-DNA/Leethub/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/Huy-DNA/Leethub/tree/master/0917-boats-to-save-people) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Huy-DNA/Leethub/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0967-minimum-falling-path-sum](https://github.com/Huy-DNA/Leethub/tree/master/0967-minimum-falling-path-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Huy-DNA/Leethub/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Huy-DNA/Leethub/tree/master/1019-squares-of-a-sorted-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Huy-DNA/Leethub/tree/master/0768-partition-labels) |
 | [0822-unique-morse-code-words](https://github.com/Huy-DNA/Leethub/tree/master/0822-unique-morse-code-words) |
 | [0843-binary-trees-with-factors](https://github.com/Huy-DNA/Leethub/tree/master/0843-binary-trees-with-factors) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Huy-DNA/Leethub/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Huy-DNA/Leethub/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/Huy-DNA/Leethub/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Huy-DNA/Leethub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Huy-DNA/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Huy-DNA/Leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Huy-DNA/Leethub/tree/master/0904-leaf-similar-trees) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Huy-DNA/Leethub/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/Huy-DNA/Leethub/tree/master/0975-range-sum-of-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Huy-DNA/Leethub/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Huy-DNA/Leethub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Huy-DNA/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Huy-DNA/Leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Huy-DNA/Leethub/tree/master/0904-leaf-similar-trees) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Huy-DNA/Leethub/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/Huy-DNA/Leethub/tree/master/0975-range-sum-of-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Huy-DNA/Leethub/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Huy-DNA/Leethub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Huy-DNA/Leethub/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Huy-DNA/Leethub/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Huy-DNA/Leethub/tree/master/0191-number-of-1-bits) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Huy-DNA/Leethub/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Simulation
 |  |
 | ------- |
