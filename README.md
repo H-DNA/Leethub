@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Huy-DNA/Leethub/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Huy-DNA/Leethub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/Huy-DNA/Leethub/tree/master/3379-score-of-a-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Huy-DNA/Leethub/tree/master/3617-find-the-original-typed-string-i) |
 ## Bit Manipulation
 |  |
 | ------- |
