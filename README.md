@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Huy-DNA/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0566-reshape-the-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/Huy-DNA/Leethub/tree/master/0594-longest-harmonious-subsequence) |
 | [0695-max-area-of-island](https://github.com/Huy-DNA/Leethub/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/Huy-DNA/Leethub/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Huy-DNA/Leethub/tree/master/0733-flood-fill) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Huy-DNA/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Huy-DNA/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Huy-DNA/Leethub/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Huy-DNA/Leethub/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Huy-DNA/Leethub/tree/master/0768-partition-labels) |
 | [0822-unique-morse-code-words](https://github.com/Huy-DNA/Leethub/tree/master/0822-unique-morse-code-words) |
 | [0843-binary-trees-with-factors](https://github.com/Huy-DNA/Leethub/tree/master/0843-binary-trees-with-factors) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Huy-DNA/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Huy-DNA/Leethub/tree/master/0502-ipo) |
+| [0594-longest-harmonious-subsequence](https://github.com/Huy-DNA/Leethub/tree/master/0594-longest-harmonious-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Huy-DNA/Leethub/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0843-binary-trees-with-factors](https://github.com/Huy-DNA/Leethub/tree/master/0843-binary-trees-with-factors) |
 | [0917-boats-to-save-people](https://github.com/Huy-DNA/Leethub/tree/master/0917-boats-to-save-people) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Huy-DNA/Leethub/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Huy-DNA/Leethub/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Huy-DNA/Leethub/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Huy-DNA/Leethub/tree/master/0594-longest-harmonious-subsequence) |
 | [1137-height-checker](https://github.com/Huy-DNA/Leethub/tree/master/1137-height-checker) |
 | [1160-letter-tile-possibilities](https://github.com/Huy-DNA/Leethub/tree/master/1160-letter-tile-possibilities) |
 | [1396-count-servers-that-communicate](https://github.com/Huy-DNA/Leethub/tree/master/1396-count-servers-that-communicate) |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Huy-DNA/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Huy-DNA/Leethub/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Huy-DNA/Leethub/tree/master/0594-longest-harmonious-subsequence) |
 | [1020-longest-turbulent-subarray](https://github.com/Huy-DNA/Leethub/tree/master/1020-longest-turbulent-subarray) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Huy-DNA/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Huy-DNA/Leethub/tree/master/2866-longest-even-odd-subarray-with-threshold) |
