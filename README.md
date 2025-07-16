@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Huy-DNA/Leethub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Huy-DNA/Leethub/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/Huy-DNA/Leethub/tree/master/3427-special-array-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/H-DNA/Leethub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Huy-DNA/Leethub/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/Huy-DNA/Leethub/tree/master/1897-maximize-palindrome-length-from-subsequences) |
 | [2164-two-best-non-overlapping-events](https://github.com/Huy-DNA/Leethub/tree/master/2164-two-best-non-overlapping-events) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/H-DNA/Leethub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
