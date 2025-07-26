@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/Huy-DNA/Leethub/tree/master/1033-broken-calculator) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Huy-DNA/Leethub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Huy-DNA/Leethub/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2383-add-two-integers](https://github.com/H-DNA/Leethub/tree/master/2383-add-two-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Huy-DNA/Leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
