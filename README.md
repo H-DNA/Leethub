@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/H-DNA/Leethub/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Huy-DNA/Leethub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Huy-DNA/Leethub/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/H-DNA/Leethub/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Huy-DNA/Leethub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Huy-DNA/Leethub/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Huy-DNA/Leethub/tree/master/2465-shifting-letters-ii) |
