@@ -696,4 +696,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/H-DNA/Leethub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/H-DNA/Leethub/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
