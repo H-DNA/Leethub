@@ -1,19 +1,19 @@
 impl Solution {
-    pub fn generate_next_row(prev_row: &Vec<i32>) -> Vec<i32> {
-        let mut res = vec![1];
-        for i in 1..prev_row.len() {
-            res.push(prev_row[i - 1] + prev_row[i]);
-        }
-        res.push(1);
-        res
-    }
-
     pub fn generate(num_rows: i32) -> Vec<Vec<i32>> {
-        let mut v = vec![vec![1]];
-        for i in 1..num_rows as usize {
-            let next_vec = Solution::generate_next_row(&v[i - 1]);
-            v.push(next_vec);
+        if num_rows == 1 {
+            return vec![vec![1]];
+        } else if num_rows == 2 {
+            return vec![vec![1], vec![1, 1]];
         }
-        v
+        let mut res = vec![vec![1], vec![1,1]];
+        for i in 2..num_rows {
+            let mut cur_vec = vec![1];
+            for j in 1..i {
+                cur_vec.push(res[i as usize - 1][j as usize] + res[i as usize - 1][j as usize - 1]);
+            }
+            cur_vec.push(1);
+            res.push(cur_vec);
+        }
+        res
     }
 }
