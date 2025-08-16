@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Huy-DNA/Leethub/tree/master/0909-stone-game) |
 | [1033-broken-calculator](https://github.com/Huy-DNA/Leethub/tree/master/1033-broken-calculator) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/H-DNA/Leethub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/H-DNA/Leethub/tree/master/1448-maximum-69-number) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Huy-DNA/Leethub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Huy-DNA/Leethub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2383-add-two-integers](https://github.com/H-DNA/Leethub/tree/master/2383-add-two-integers) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/Huy-DNA/Leethub/tree/master/1033-broken-calculator) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Huy-DNA/Leethub/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1095-two-city-scheduling](https://github.com/Huy-DNA/Leethub/tree/master/1095-two-city-scheduling) |
+| [1448-maximum-69-number](https://github.com/H-DNA/Leethub/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Huy-DNA/Leethub/tree/master/1464-reduce-array-size-to-the-half) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Huy-DNA/Leethub/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Huy-DNA/Leethub/tree/master/2117-find-original-array-from-doubled-array) |
