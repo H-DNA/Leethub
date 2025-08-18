@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Huy-DNA/Leethub/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/H-DNA/Leethub/tree/master/0679-24-game) |
 | [0695-max-area-of-island](https://github.com/Huy-DNA/Leethub/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/Huy-DNA/Leethub/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Huy-DNA/Leethub/tree/master/0733-flood-fill) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/Huy-DNA/Leethub/tree/master/0458-poor-pigs) |
 | [0523-continuous-subarray-sum](https://github.com/Huy-DNA/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0650-2-keys-keyboard](https://github.com/Huy-DNA/Leethub/tree/master/0650-2-keys-keyboard) |
+| [0679-24-game](https://github.com/H-DNA/Leethub/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/H-DNA/Leethub/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/H-DNA/Leethub/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/Huy-DNA/Leethub/tree/master/0909-stone-game) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Huy-DNA/Leethub/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/Huy-DNA/Leethub/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Huy-DNA/Leethub/tree/master/0126-word-ladder-ii) |
+| [0679-24-game](https://github.com/H-DNA/Leethub/tree/master/0679-24-game) |
 | [0800-letter-case-permutation](https://github.com/Huy-DNA/Leethub/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/Huy-DNA/Leethub/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Huy-DNA/Leethub/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
