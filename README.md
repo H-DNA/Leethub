@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/H-DNA/Leethub/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Huy-DNA/Leethub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Huy-DNA/Leethub/tree/master/2358-number-of-ways-to-split-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/H-DNA/Leethub/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/Huy-DNA/Leethub/tree/master/2465-shifting-letters-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/H-DNA/Leethub/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/H-DNA/Leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Huy-DNA/Leethub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Huy-DNA/Leethub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2383-add-two-integers](https://github.com/H-DNA/Leethub/tree/master/2383-add-two-integers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/H-DNA/Leethub/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Huy-DNA/Leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
