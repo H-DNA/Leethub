@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Huy-DNA/Leethub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Huy-DNA/Leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/H-DNA/Leethub/tree/master/1603-running-sum-of-1d-array) |
+| [1628-count-submatrices-with-all-ones](https://github.com/H-DNA/Leethub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Huy-DNA/Leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/H-DNA/Leethub/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/Huy-DNA/Leethub/tree/master/1876-map-of-highest-peak) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-count-vowels-permutation](https://github.com/Huy-DNA/Leethub/tree/master/1332-count-vowels-permutation) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Huy-DNA/Leethub/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/H-DNA/Leethub/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/H-DNA/Leethub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/Huy-DNA/Leethub/tree/master/1897-maximize-palindrome-length-from-subsequences) |
 | [2164-two-best-non-overlapping-events](https://github.com/Huy-DNA/Leethub/tree/master/2164-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/H-DNA/Leethub/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -461,12 +463,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Huy-DNA/Leethub/tree/master/0234-palindrome-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/Huy-DNA/Leethub/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Huy-DNA/Leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/H-DNA/Leethub/tree/master/1628-count-submatrices-with-all-ones) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Huy-DNA/Leethub/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Huy-DNA/Leethub/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Huy-DNA/Leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/H-DNA/Leethub/tree/master/1628-count-submatrices-with-all-ones) |
 ## Recursion
 |  |
 | ------- |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Huy-DNA/Leethub/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/H-DNA/Leethub/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Huy-DNA/Leethub/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1628-count-submatrices-with-all-ones](https://github.com/H-DNA/Leethub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/H-DNA/Leethub/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/Huy-DNA/Leethub/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Huy-DNA/Leethub/tree/master/2145-grid-game) |
