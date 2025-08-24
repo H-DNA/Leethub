@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Huy-DNA/Leethub/tree/master/1524-string-matching-in-an-array) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Huy-DNA/Leethub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Huy-DNA/Leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/H-DNA/Leethub/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/H-DNA/Leethub/tree/master/1603-running-sum-of-1d-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/H-DNA/Leethub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Huy-DNA/Leethub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-count-vowels-permutation](https://github.com/Huy-DNA/Leethub/tree/master/1332-count-vowels-permutation) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Huy-DNA/Leethub/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/H-DNA/Leethub/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/H-DNA/Leethub/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/H-DNA/Leethub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/Huy-DNA/Leethub/tree/master/1897-maximize-palindrome-length-from-subsequences) |
 | [2164-two-best-non-overlapping-events](https://github.com/Huy-DNA/Leethub/tree/master/2164-two-best-non-overlapping-events) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/H-DNA/Leethub/tree/master/0867-new-21-game) |
 | [1020-longest-turbulent-subarray](https://github.com/Huy-DNA/Leethub/tree/master/1020-longest-turbulent-subarray) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Huy-DNA/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/H-DNA/Leethub/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/H-DNA/Leethub/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Huy-DNA/Leethub/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Game Theory
