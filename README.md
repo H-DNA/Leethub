@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/H-DNA/Leethub/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Huy-DNA/Leethub/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Huy-DNA/Leethub/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/H-DNA/Leethub/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Huy-DNA/Leethub/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Huy-DNA/Leethub/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Huy-DNA/Leethub/tree/master/0051-n-queens) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Huy-DNA/Leethub/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Huy-DNA/Leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Huy-DNA/Leethub/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/H-DNA/Leethub/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/Huy-DNA/Leethub/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Huy-DNA/Leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Huy-DNA/Leethub/tree/master/0138-copy-list-with-random-pointer) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Huy-DNA/Leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Huy-DNA/Leethub/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/H-DNA/Leethub/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Huy-DNA/Leethub/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Huy-DNA/Leethub/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Huy-DNA/Leethub/tree/master/0077-combinations) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Huy-DNA/Leethub/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/H-DNA/Leethub/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Huy-DNA/Leethub/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Huy-DNA/Leethub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
