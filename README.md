@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/H-DNA/Leethub/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/Huy-DNA/Leethub/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Huy-DNA/Leethub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1917-maximum-average-pass-ratio](https://github.com/H-DNA/Leethub/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Huy-DNA/Leethub/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Huy-DNA/Leethub/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Huy-DNA/Leethub/tree/master/2117-find-original-array-from-doubled-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/H-DNA/Leethub/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Huy-DNA/Leethub/tree/master/1464-reduce-array-size-to-the-half) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Huy-DNA/Leethub/tree/master/1782-smallest-string-with-a-given-numeric-value) |
+| [1917-maximum-average-pass-ratio](https://github.com/H-DNA/Leethub/tree/master/1917-maximum-average-pass-ratio) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Huy-DNA/Leethub/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Huy-DNA/Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Huy-DNA/Leethub/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Huy-DNA/Leethub/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Huy-DNA/Leethub/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Huy-DNA/Leethub/tree/master/1464-reduce-array-size-to-the-half) |
+| [1917-maximum-average-pass-ratio](https://github.com/H-DNA/Leethub/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Huy-DNA/Leethub/tree/master/2164-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/H-DNA/Leethub/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Counting Sort
